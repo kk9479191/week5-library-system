@@ -234,6 +234,8 @@ John Smith
 ```
 
 ---
+# Image 
+<img width="427" height="1018" alt="Output (2)" src="https://github.com/user-attachments/assets/c2f38fa0-c00f-4f3c-9ac3-4231c382a778" />
 
 # Advantages of the System
 
